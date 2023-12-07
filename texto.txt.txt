@@ -1,2 +1,2 @@
-Nombre: 
-Rut:
+Nombre: Rodrigo
+Rut: 194448295
